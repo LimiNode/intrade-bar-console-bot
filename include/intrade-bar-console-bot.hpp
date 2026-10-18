@@ -1,7 +1,7 @@
 /*
 * intrade-bar-console-bot - C++ Console robot for trading with an intrade.bar broker
 *
-* Copyright (c) 2020 Elektro Yar. Email: git.electroyar@gmail.com
+* Copyright (c) 2020 LimiNode
 *
 * Permission is hereby granted, free of charge, to any person obtaining a copy
 * of this software and associated documentation files (the "Software"), to deal
