@@ -6,34 +6,34 @@
 	url = https://gitlab.com/eidheim/Simple-WebSocket-Server.git
 [submodule "lib/curl-7.60.0-win64-mingw"]
 	path = lib/curl-7.60.0-win64-mingw
-	url = https://github.com/NewYaroslav/curl-7.60.0-win64-mingw.git
+	url = https://github.com/LimiNode/curl-7.60.0-win64-mingw.git
 [submodule "lib/intrade-bar-api-cpp"]
 	path = lib/intrade-bar-api-cpp
-	url = https://github.com/NewYaroslav/intrade-bar-api-cpp.git
+	url = https://github.com/LimiNode/intrade-bar-api-cpp.git
 [submodule "lib/json"]
 	path = lib/json
 	url = https://github.com/nlohmann/json.git
 [submodule "lib/openssl_win64"]
 	path = lib/openssl_win64
-	url = https://github.com/NewYaroslav/openssl_win64.git
+	url = https://github.com/LimiNode/openssl_win64.git
 [submodule "lib/simple-named-pipe-server"]
 	path = lib/simple-named-pipe-server
-	url = https://github.com/NewYaroslav/simple-named-pipe-server.git
+	url = https://github.com/LimiNode/simple-named-pipe-server.git
 [submodule "lib/xtime_cpp"]
 	path = lib/xtime_cpp
-	url = https://github.com/NewYaroslav/xtime_cpp.git
+	url = https://github.com/LimiNode/xtime_cpp.git
 [submodule "lib/xquotes_history"]
 	path = lib/xquotes_history
-	url = https://github.com/NewYaroslav/xquotes_history.git
+	url = https://github.com/LimiNode/xquotes_history.git
 [submodule "lib/gzip-hpp"]
 	path = lib/gzip-hpp
-	url = https://github.com/NewYaroslav/gzip-hpp.git
+	url = https://github.com/LimiNode/gzip-hpp.git
 [submodule "lib/zlib"]
 	path = lib/zlib
 	url = https://github.com/madler/zlib.git
 [submodule "lib/curl-7.70.0-win32-mingw"]
 	path = lib/curl-7.70.0-win32-mingw
-	url = https://github.com/NewYaroslav/curl-7.70.0-win32-mingw.git
+	url = https://github.com/LimiNode/curl-7.70.0-win32-mingw.git
 [submodule "lib/openssl_win32"]
 	path = lib/openssl_win32
-	url = https://github.com/NewYaroslav/openssl_win32.git
+	url = https://github.com/LimiNode/openssl_win32.git
